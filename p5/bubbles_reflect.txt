@@ -1,0 +1,9 @@
+Enam Haque
+Period 4
+Ms. Tanzosh
+
+1. A JavaScript Object is one thing that is stored in one variable. It could be given properties that are additional variables stored inside a larger object.
+2. The advantage of using objects would be to command a certain item to do an action. The properties given to that object could allow it to do many things. 
+The object would be given useful data due to the properties given. It's fundamental to how data is structured and received.
+3. I had some struggles with the program. I understand how it works and how the program is implemented. I just didn't know how to change the speed and some
+properties in the program. However, I did figure out how it could be implemented but I just didn't have the time. 

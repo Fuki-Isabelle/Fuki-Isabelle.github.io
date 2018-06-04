@@ -1,0 +1,13 @@
+Enam Haque
+CS50
+    The process we went through was very concise and an overall learning process. We had limited coding experience with P5, so for some functions to work we had
+    to look up how to get some functions to work. We equally contributed to the coding by rigorously coming up with a concept and try to apply our coding knowledge
+    at first hand. At first glance, we laid out a rough sketch of the previous bubble program into this new program. It was basically a much more advanced version of
+    bubbles.
+    The iterative development we approached was to first build a sketch of the program. The whole background was in one file and the actual objects were in another
+    javascript file. At first, I borrowed some of the ideas from the original bubbles program. The bubbles have random colors. When it's clicked by the left mouse button
+    the whole object moves far away from the screen to manipulate the fact that it dissapeared. Also, there's sound function in our game where first it was preloaded and
+    then when the left button clicks on the bubble, it makes a sound.
+    The most complex algorithm we built was a timer for the program. It had to be implemented into the system through the use of HTML. It was a bit difficult but it worked
+    out well. It starts off with timeleft and counter variables. The timeleft starts from 50 and I implemented a timer class to the HTML. Every second, the counter goes up
+    and subtracts by the amount of time for the counter and so the HTML manipulates that code by making the timer look as if it's decreasing by one second. This algorithm

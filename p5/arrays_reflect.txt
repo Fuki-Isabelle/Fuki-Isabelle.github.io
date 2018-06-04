@@ -1,0 +1,14 @@
+Enam Haque
+CS50
+Ms. Tanzosh
+
+1. The advantages of using arrays would be to help create many bubbles more efficiently by implementing large data sets by using a small piece
+of code. If there were no arrays, that would lead to inefficiency as the programmer would have to continuously add in a new line of code for
+every bubble.
+2. I used for loops for my algorithm that increased the amount of bubbles each time by starting from 1 bubble to 100 bubbles. The program
+checks through each condition (property) for the bubbles. The loop was able to add in all the bubbles with its properties and from the previous
+bubble challenge (moving the bubbles and having different sizes, etc). The challenging part was making sure the syntax was consistent and
+didn't mess up or else the whole code wouldn't work.
+3. As stated before, one struggle I had was with the syntax. At times, if my code wasn't correctly written the whole program would not show
+up. For example, if I forget a paranthesis in one of the properties, the program would not show up at all. Also, if I put " bubbles[i] = "
+before the for loop then nothing would show up as before. Silly mistakes with the syntax would lead to such a huge problem.
