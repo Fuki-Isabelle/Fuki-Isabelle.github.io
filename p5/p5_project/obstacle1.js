@@ -1,7 +1,7 @@
 function Obstacle1(x){
     this.pos = createVector(x, height);
-    this.vel = createVector(-1, 0);
-    this.acc = createVector(0, 0);
+    this.vel = createVector(random(-4.2,-4.5), 0);
+    this.acc = createVector(random(-1.2,-1.5), 0);
 
     this.applyForce = function(force){
         this.acc.add(force);

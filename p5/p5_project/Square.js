@@ -1,7 +1,7 @@
 function Quad(){
     this.pos = createVector(50, height);
-    this.vel = createVector(4, 0);
-    this.acc = createVector(0, 0);
+    this.vel = createVector(random(5.2,5.5), 0);
+    this.acc = createVector(random(1,1.1), 0);
 
     this.applyForce = function(force){
         this.acc.add(force);
